@@ -3,17 +3,15 @@
 }
 
 .overlay {
-  height: 100%;
-  position: absolute;
-  top: 0;
   width: 100%;
   background: #34D399;
+  padding: 5rem;
 }
 
 .main {
   background: white;
   max-width: 768px;
-  margin: 5rem auto;
+  margin: 0 auto;
   border-radius: 1.5rem;
   padding: 2rem;
   display: flex;
@@ -72,5 +70,8 @@
   .main {
       border-radius: 0;
       margin: 0;
+  }
+  .overlay {
+    padding: 0;
   }
 }
