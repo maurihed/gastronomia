@@ -1,0 +1,76 @@
+:root {
+  --block_spacing: 1.5rem;
+}
+
+.overlay {
+  height: 100%;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: #34D399;
+}
+
+.main {
+  background: white;
+  max-width: 768px;
+  margin: 5rem auto;
+  border-radius: 1.5rem;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: var(--block_spacing);
+}
+
+.main__image img {
+  width: 100%;
+  border-radius: 1rem;
+  aspect-ratio: 5 / 3;
+}
+
+.main__title {
+  color: #000;
+  font-family: YoungSerif;
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.main__subtitle {
+  font-family: YoungSerif;
+  color: #7f3e58;
+  font-weight: 600;
+}
+
+.recipe_list {
+  line-height: 2;
+  margin-left: 1.5rem;
+  list-style: circle;
+}
+.recipe_list li {
+  padding-left: 1rem;
+}
+
+.recipe_list ::marker {
+  color: #7f3e58;
+}
+
+/* Helpers */
+.bold {
+  color: #000;
+  font-weight: 600;
+}
+
+.divider {
+  border-top: 1px solid #e0e0e0;
+}
+
+.text-primary {
+  color: #7f3e58;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .main {
+      border-radius: 0;
+      margin: 0;
+  }
+}

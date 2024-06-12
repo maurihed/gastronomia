@@ -1,0 +1,453 @@
+{
+    "1": [
+        {
+            "id": 1,
+            "titulo": "Enchiladas Tultecas",
+            "imagen": "https://picsum.photos/600/500?random=10",
+            "descripcion": "La tortilla de color rojo intenso, como si se tratara de una tostada, es lo que caracteriza a esta preparación típica de uno del pueblos mágicos de Tula en Tamaulipas.",
+            "ingredientes": [
+                { "nombre": "masa de maiz", "cantidad": "300", "unidad": "g" },
+                { "nombre": "pulpa de chile guajillo", "cantidad": "50", "unidad": "g" },
+                { "nombre": "salsa de chile cascabel", "cantidad": "100", "unidad": "ml" },
+                { "nombre": "jitomate", "cantidad": "2", "unidad": "pz" },
+                { "nombre": "queso añejo", "cantidad": "100", "unidad": "g" },
+                { "nombre": "chorizo", "cantidad": "250", "unidad": "g" },
+                { "nombre": "papas en brunoise", "cantidad": "2", "unidad": "pz" },
+                { "nombre": "manteca vegetal", "cantidad": "50", "unidad": "g" },
+                { "nombre": "pollo desmennuzado", "cantidad": "100", "unidad": "g" },
+                { "nombre": "chicharo cocido", "cantidad": "100", "unidad": "g" },
+                { "nombre": "crema acida", "cantidad": "50", "unidad": "ml" },
+                { "nombre": "lechuga", "cantidad": "1", "unidad": "pz" },
+                { "nombre": "cebolla en pluma", "cantidad": "50", "unidad": "g" },
+                { "nombre": "pulpa de chile guajillo", "cantidad": "50", "unidad": "g" }
+            ],
+            "procedimiento": [
+                "1. Suavizar la masa de maíz con la pulpa de chile guajillo y cascabel, sal o tequesquite, integrar hasta obtener un color y consistencia suave y uniforme",
+                "2. Hacer tortillas con la masa anterior y reservar.",
+                "3. Para el relleno: elaborar un guisado de papas con chorizo, retirar el exceso de grasa, rectificar sazón.",
+                "4. Sancochar las tortillas en la manteca para ablandar, y rellenar inmediatamente de la preparación anterior.",
+                "5. Presentar las enchiladas bañadas en salsa de chile cascabel, zanahoria cocida, chícharo, lechuga, pollo y chiles en vinagre."
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "Asado de bodas Jerezano",
+            "imagen": "https://picsum.photos/600/500?random=10",
+            "descripcion": "pierna de cerdo bañada con un adobo de chiles y especias, platillo tradcional de Jerez Zacatecas",
+            "ingredientes": [
+                { "nombre": "pierna de cerdo en cubos", "cantidad": "1", "unidad": "Kg" },
+                { "nombre": "cebolla en ciceler", "cantidad": "1/2", "unidad": "pz" },
+                { "nombre": "dientes de ajo", "cantidad": "3", "unidad": "pz" },
+                { "nombre": "manteca de cerdo", "cantidad": "2", "unidad": "cdas" },
+                { "nombre": "chiles anchos tostados", "cantidad": "2", "unidad": "pz" },
+                { "nombre": "chiles huajillo", "cantidad": "6", "unidad": "pz" },
+                { "nombre": "comino", "cantidad": "1", "unidad": "cdta" },
+                { "nombre": "pan duro", "cantidad": "1", "unidad": "pz" },
+                { "nombre": "chocolate de mesa", "cantidad": "30", "unidad": "g" },
+                { "nombre": "naranja jugo y ralladura", "cantidad": "4", "unidad": "pz" },
+                { "nombre": "Laurel", "cantidad": "2", "unidad": "pz" },
+                { "nombre": "canela en vara", "cantidad": "15", "unidad": "g" },
+                { "nombre": "sal", "cantidad": "C/N", "unidad": "g" },
+                { "nombre": "piloncillo", "cantidad": "2 a 3", "unidad": "pz" }
+            ],
+            "procedimiento": [
+                "1. Cocinar la carne con la cebolla y el ajo, en una cacerola con tapadera. Cubriendo la superficie de la misma, el agua no debe sobrepasar la carne. Cocinar por 1 hra a fuego bajo apenas rompa hervor, ir agregando agua de ser necesario (nunca dejar que se evapore, siempre agregarla caliente)",
+                "2. Sofreír todos los ingredientes para la salsa, menos los ingredientes dulces**, siguiendo los pasos para la elaboración de un mole. Reservar.",
+                "3. Una vez que la carne se sienta suave, o a ¾ de cocción, integrar el piloncillo para disolver más fácil. Verter la salsa colada, chocolate y cáscara de naranja, cocinar por 15 min. Hasta que la grasa suba a la superficie de la salsa."
+            ]
+        },
+        {
+            "id": 3,
+            "titulo": "Coctel vuelve a la vida",
+            "imagen": "https://picsum.photos/600/500?random=10",
+            "descripcion": "El vuelve a la vida es un coctel con una gran variedad de mariscos, se le nombra así debido a su alto contenido de proteínas",
+            "ingredientes": [
+                { "nombre": "aceite de oliva", "cantidad": "1", "unidad": "cdta" },
+                { "nombre": "sal y pimienta", "cantidad": "1", "unidad": "pizca" },
+                { "nombre": "camaron chico", "cantidad": "200", "unidad": "g" },
+                { "nombre": "pulpa de jaiba", "cantidad": "200", "unidad": "g" },
+                { "nombre": "ostiones", "cantidad": "200", "unidad": "g" },
+                { "nombre": "pulpo cocido y en macedonia", "cantidad": "200", "unidad": "g" },
+                { "nombre": "salsa cátsup", "cantidad": "1/2", "unidad": "tz" },
+                { "nombre": "vinagre de manzana", "cantidad": "3", "unidad": "cda" },
+                { "nombre": "chile manzano finamente picado", "cantidad": "1", "unidad": "pz" },
+                { "nombre": "chile serrano finamente picado", "cantidad": "2", "unidad": "pz" },
+                { "nombre": "crema acida", "cantidad": "50", "unidad": "ml" },
+                { "nombre": "cilantro en chiffonade", "cantidad": "C/N", "unidad": "g" },
+                { "nombre": "aguacate", "cantidad": "1", "unidad": "pz" },
+                { "nombre": "tostadas", "cantidad": "C/N", "unidad": "PZ" }
+            ],
+            "procedimiento": [
+                "1. Limpiar todos los mariscos y pulpo según corresponda",
+                "2. Cocer los camarones y la pulpa de jaiba en agua hirviendo con sal y hierbas por 5 min. aprox. escurrir y reservar 1 tza aprox. del líquido de cocción.",
+                "3. Masajear el pulpo por 10 min y “asustar”. Dejar en cocción por 30-40 min. en agua con sal y ½ cda. Aceite de oliva. Al estar cocido cortar y reservar.",
+                "4. Mezclar todos los ingredientes salvo el aguacate y rectificar sazón. Acompañar con tostadas o galletas saladas"
+            ]
+        },
+        {
+                "id": 4,
+                "titulo": "Bocoles",
+                "imagen": "https://picsum.photos/600/500?random=10",
+                "descripcion": "El bocol es una tortilla gruesa de masa de maíz mezclada con manteca de res, cerdo o vegetal, cocidas en un comal, rellenas con frijoles refritos, queso fresco, chicharrón, carne deshebrada u otro guiso",
+                "ingredientes": [
+                    { "nombre": "masa de maiz", "cantidad": "500", "unidad": "g" },
+                    { "nombre": "chicharron", "cantidad": "100", "unidad": "g" },
+                    { "nombre": "manteca de cerdo", "cantidad": "2", "unidad": "cda" },
+                    { "nombre": "frijol negro refrito", "cantidad": "200", "unidad": "g" },
+                    { "nombre": "queso fresco", "cantidad": "100", "unidad": "g" },
+                    { "nombre": "chiles huajillo", "cantidad": "6", "unidad": "pz" },
+                    { "nombre": "crema acida", "cantidad": "50", "unidad": "ml" },
+                    { "nombre": "salsa de mesa", "cantidad": "C/N", "unidad": "ml" }
+                ],
+                "procedimiento": [
+                "1. Suavizar la masa con un poco de agua tibia con sal o tequesquite. Reservar tapada",
+                "2. Porcionar la masa hasta hacer pequeñas pelotitas, rellenar de frijoles o chicharrón, aplanar ligeramente. Pasar por la plancha antes de sofreír en manteca.",
+                "3. Servir acompañadas de lechuga, queso, crema y salsa"
+                ]
+         },{
+             "id": 5,
+                "titulo": "Pastes de Hidalgo",
+                "imagen": "https://picsum.photos/600/500?random=10",
+                "descripcion": "Los pastes son unas empanadas que tienen su origen en el estado de Hidalgo en México, era la comida que podían llevar los mineros a su trabajo y podían ser consumidos a cualquier hora, aunque ahora ya se preparan de muchas variedades el tradicional es de papa con carne.",
+                "ingredientes": [
+                    { "nombre": "harina de trigo", "cantidad": "500", "unidad": "g" },
+                    { "nombre": "huevo", "cantidad": "1", "unidad": "pz" },
+                    { "nombre": "sal", "cantidad": "1", "unidad": "cdta" },
+                    { "nombre": "azucar", "cantidad": "1", "unidad": "cdta" },
+                    { "nombre": "manteca", "cantidad": "125", "unidad": "g" },
+                    { "nombre": "pulque", "cantidad": "1", "unidad": "tz" },
+                    { "nombre": "leche", "cantidad": "125", "unidad": "ml" },
+                    { "nombre": "molida de res", "cantidad": "300", "unidad": "g" },
+                    { "nombre": "papa en bronoise", "cantidad": "3", "unidad": "pz" },
+                    { "nombre": "cebolla en ciceler", "cantidad": "1/4", "unidad": "pz" },
+                    { "nombre": "poro en ciceler", "cantidad": "1/4", "unidad": "pz" },
+                    { "nombre": "perejil en chiffonade", "cantidad": "1", "unidad": "manojo" },
+                    { "nombre": "mantequilla", "cantidad": "3", "unidad": "cdtas" }
+                ],
+                "procedimiento": [
+                "1. Técnica de amasado: técnica de masa directa. Reposo: 1 hr.",
+                "2. Cocción: horneado, 180°C, 10-15 min"     
+            ]
+        }
+    ],
+    "2": [
+        {
+            "id": 1,
+            "titulo": "Eclairs",
+            "imagen": "https://picsum.photos/600/500?random=10",
+            "descripcion": "Un éclair, a veces también petisús, relámpago o palo de jacob, es un bollo fino o dona hecho con pasta choux, a la que se da forma alargada y se hornea hasta que queda crujiente y hueco, ​ y que habitualmente se rellena",
+            "ingredientes": [
+                { "nombre": "agua", "cantidad": "200", "unidad": "ml" },
+                { "nombre": "leche", "cantidad": "300", "unidad": "ml" },
+                { "nombre": "mantequilla 82%", "cantidad": "250", "unidad": "g" },
+                { "nombre": "azucar", "cantidad": "8", "unidad": "g" },
+                { "nombre": "sal", "cantidad": "5", "unidad": "g" },
+                { "nombre": "harina media fuerza", "cantidad": "250", "unidad": "g" },
+                { "nombre": "huevo", "cantidad": "520", "unidad": "g" }
+            ],
+            "procedimiento": [
+                "1.- Hervir la leche, agua, sal, azucar y mantequilla",
+                "2.- agregar el harina y cocer",
+                "3.- enfriar a 50°C luego incorporar a intervalos los huevos con ayuda de una batidora con accesario de pala",
+                "4.- Llevar a una manga pastelera con boquilla estrellada. Escudillar de unos 12 a 13 cm de largo",
+                "5.- Cocer a 160-170°C durante 40-45 min sin aire"
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "Tarta opera",
+            "imagen": "https://picsum.photos/600/500?random=10",
+            "descripcion": "Consiste en un bizcochuelo hecho a base de almendras, el cual se empapa con un almíbar a base de café y se intercala con capas de una crema de mantequilla con sabor a café y ganache de chocolate.",
+            "ingredientes": [
+                { "nombre": "huevos", "cantidad": "3", "unidad": "pz" },
+                { "nombre": "azucar glass", "cantidad": "125", "unidad": "g" },
+                { "nombre": "harina de almendra", "cantidad": "125", "unidad": "g" },
+                { "nombre": "jitomate", "cantidad": "2", "unidad": "pz" },
+                { "nombre": "sal", "cantidad": "4", "unidad": "g" },
+                { "nombre": "harina de trigo comun", "cantidad": "20", "unidad": "g" },
+                { "nombre": "mantequilla derretida ", "cantidad": "20", "unidad": "g" }
+               
+            ],
+            "procedimiento": [
+                "1.- para realizar este bizcocho Gioconda vamos a utilizar la receta del tanto por tanto, es decir la misma cantidad de harina de almendra y de azucar glas. Comenzamos poniendo los huevos a temperatura ambiente en el recipiente de la batidora, añadimos el tanto por tanto. Batimos hasta obtener una mezcla espumosa y que doble su volumen. Reservamos un momento",
+                "2. En un bowl grande batimos las claras de huevo con una pizca de sal a punto de nieve bien firmes.",
+                "3. Tamizamos el harina sobre la mezcla montada del tanto por tanto y mezclamos delicadamente con una espatula de silicona. Le incorporamos suavemente las claras montadas, y por ultimo la mantequilla derretida",
+                "4. Horneamos en charola por aproximadamente 15 minutos a 180°C"
+            ]
+        },
+        {
+                "id": 3,
+                "titulo": "Mont Blanc",
+                "imagen": "https://picsum.photos/600/500?random=10",
+                "descripcion": "es un postre francés hecho de puré de castañas endulzadas y cubierto de nata montada. Algunas versiones se sirven sobre un merengue, macaron o bizcocho.",
+                "ingredientes": [
+                    { "nombre": "mantequilla sin sal", "cantidad": "130", "unidad": "g" },
+                    { "nombre": "azucar glas ", "cantidad": "125", "unidad": "g" },
+                    { "nombre": "cacao en polvo ", "cantidad": "17", "unidad": "g" },
+                    { "nombre": "almendra molida ", "cantidad": "62", "unidad": "g" },
+                    { "nombre": "claras de huevo", "cantidad": "3", "unidad": "pz" },
+                    { "nombre": "harina de todo uso", "cantidad": "45", "unidad": "g" }
+                   
+                ],
+                "procedimiento": [
+                    "1. Precalentamos el horno a 160 ° C. ",
+                    "2. El primer paso , es colocar la mantequilla en una pequeña cacerola . Vamos a hacer una  mantequilla avellana. Esto quiere decir , que la vamos a derretir a fuego suave , y después , la cocinamos unos minutos , hasta que tome un color avellano . Pasamos la  mantequilla avellana a un bol , y dejamos enfriar hasta los 40 ° C.",
+                    "Mientras tanto , en un bol grande , colocamos el azúcar glas , la almendra molida , el cacao y la harina . Mezclamos todos estos ingredientes , hasta que tengamos una textura fina y sin grumos , como si fuera arena  . Entonces , le añadimos las claras de huevo , tal cual , sin montar , ni batir . Mezclamos con unas varillas , hasta que las claras se incorporen con los ingredientes secos . Por último , incorporamos la mantequilla derretida , que ya se ha enfriado a 40 ° C.",
+                    "3. Disponemos de un marco cuadrado para tartas , de 20 cm . Lo colocamos sobre una bandeja de horno , con un papel de horno encima . Vertemos la masa de Financier en el marco , hasta 1 cm de grosor . La extendemos , de manera que nos quede bien nivelada y lisa . Horneamos unos 12-14 minutos . Retiramos del horno , y dejamos enfriar a temperatura ambiente , dentro del marco ."
+                ]
+                },
+                {
+                    "id": 4,
+                    "titulo": "Tiramisu",
+                    "imagen": "https://picsum.photos/600/500?random=10",
+                    "descripcion": "El tiramisú es un pastel frío que se monta en capas No existe una receta única de elaboración, sino variantes a partir de una serie de ingredientes base que pueden ser representados por distintos productos.",
+                    "ingredientes": [
+                        { "nombre": "Harina de todo uso", "cantidad": "215", "unidad": "g" },
+                        { "nombre": "Almendra molida", "cantidad": "35", "unidad": "g" },
+                        { "nombre": "cacao en polvo", "cantidad": "25", "unidad": "g" },
+                        { "nombre": "Azucar glas", "cantidad": "95", "unidad": "g" },
+                        { "nombre": "Mantequilla sin sal, fria y cortada en cubos", "cantidad": "120", "unidad": "g" },
+                        { "nombre": "Sal", "cantidad": "4", "unidad": "g" },
+                        { "nombre": "Huevo", "cantidad": "1", "unidad": "pz" }
+                    ],
+                    "procedimiento": [
+                        "1. Colocamos en el bol del robot , o en un bol grande ( si lo vamos a preparar manualmente ) : La harina , almendra molida , azúcar glas , una pizca de sal , y la mantequilla . Es decir , todos los ingredientes , menos los huevos . Vamos a mezclar a velocidad media , hasta que obtengamos una textura arenosa , algo más gruesa el pan rallado . Si no disponemos de un robot , pues lo hacemos manualmente , tardaremos un poco más de tiempo , y nos pringaremos las manos , pero nos quedará igual de bien .",
+                        "2. A continuación , vamos a incorporar el huevo batido . Si hay poca cantidad , como en este caso , que solo es uno , lo añadimos todo , si fueran por ejemplo 3 o 4 huevos , lo hacemos gradualmente , es decir , vamos incorporando poco a poco . Seguimos mezclando , hasta que se haya integrado totalmente , y veamos que la masa se junta , y separa de las paredes del recipiente . Veréis que se empieza a formar una bola irregular .",
+                        "3. Entonces , paramos de mezclar , volcamos la masa sobre un papel de horno , y con las manos , la juntamos y formamos una bola . Colocamos otro papel de horno encima , y estiramos con el rodillo , hasta unos 3 mm de grosor .",
+                        "4. Para que la masa nos quede del mismo grosor , en un lado y en otro , nos podemos ayudar con unas tiras , a modo de guía , como podéis ver en el video . Podemos fabricarlas nosotros mismos , con un cartón duro , o de metraquilato por ejemplo . Solo nos debemos asegurar , que el grosos de las guías , sea de unos 3 mm . También las venden ya hechas , con varias medidas , para esta tarea , y para cualquier elaboración , en la que necesitemos una preparación bien recta , por ejemplo , para extender una masa de Bizcocho Gioconda .",
+                        "5.Cuando tengamos la masa sablé , estirada uniformemente , la reservamos tal cual , en el frigorífico , unos 20-30 minutos . Mientras tanto , precalentamos el horno a 160 ° C / 320 ° F con calor arriba y abajo . Para trabajar la masa sablé , sin ningún problema , necesitamos que esté muy , muy fría"
+                    ]
+                },
+                {
+                        "id": 5,
+            "titulo": "Entremet Selva negra",
+            "imagen": "https://picsum.photos/600/500?random=10",
+            "descripcion": "La tarta o torta Selva Negra es una tarta típica de la cocina de Baden y uno de los dulces más característicos de la gastronomía alemana. Está compuesta por varias capas de bizcochuelo de chocolate embebidas en kirsch e intercaladas con nata y cerezas.",
+            "ingredientes": [
+                { "nombre": "huevos", "cantidad": "120", "unidad": "g" },
+                { "nombre": "Azucar", "cantidad": "190", "unidad": "g" },
+                { "nombre": "Harina de todo uso", "cantidad": "180", "unidad": "g" },
+                { "nombre": "Polvo para hornear", "cantidad": "15", "unidad": "g" },
+                { "nombre": "Leche", "cantidad": "245", "unidad": "ml" },
+                { "nombre": "mantequilla clarificada", "cantidad": "175", "unidad": "g" },
+                { "nombre": "Chocolate Guanaja", "cantidad": "155", "unidad": "g" }
+            ],
+            "procedimiento": [
+                "1. En una batidora con el batidor adjunto se combinan azúcar y huevos .",
+                "2. Una vez combinados , agregue la leche con la mantequilla derretida y el chocolate . ",
+                "3. Acabar añadiendo los ingredientes secos tamizados ",
+                "4. Llenar 1/3 de aros de 16 cm ( 150 a 200 gr de la mezcla por molde ) ",
+                "5. Hornear 170 ° C durante 12-15 minutos . Reservar en la nevera ."
+            ]
+        }
+    ],
+    "3": [
+        {
+            "id": 1,
+            "titulo": "Quiche Llorain",
+            "imagen": "data:image/jpeg;base64,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",
+            "descripcion": "Quiche Lorraine es una sabrosa tarta francesa rellena de crema, huevos y tocino o jamón, en una caja de repostería abierta. Fue poco conocido fuera de la región francesa de Lorena hasta mediados del siglo XX",
+            "ingredientes": [
+                { "nombre": "harina de trigo", "cantidad": "250", "unidad": "g" },
+                { "nombre": "mantequilla", "cantidad": "125", "unidad": "g" },
+                { "nombre": "huevos", "cantidad": "4", "unidad": "pz" },
+                { "nombre": "Sal", "cantidad": "C/N", "unidad": "g" },
+                { "nombre": "Nata", "cantidad": "500", "unidad": "ml" },
+                { "nombre": "queso rallado", "cantidad": "150", "unidad": "g" },
+                { "nombre": "Yema de huevo", "cantidad": "1", "unidad": "pz" },
+                { "nombre": "tocino", "cantidad": "200", "unidad": "g" },
+                { "nombre": "Nuez moscada", "cantidad": "C/N", "unidad": "g" }
+            ], 
+            "procedimiento": [
+                "1. Para hacer la masa, ponemos en un bol amplio 250 g de harina de trigo junto con 125 g de mantequilla fría cortada en tacos y 1 pizca de sal. Trabajamos los ingredientes con las yemas de los dedos hasta que adquieran una textura arenosa, antes de añadir el resto de los ingredientes.",
+                "2. Añadimos 1 yema de huevo y 2 cucharadas de agua helada. Mezclamos los ingredientes hasta integrarlos todos sin trabajar demasiado la masa, es suficiente con que la masa se despegue del bol.",
+                "3. Envolvemos la masa con papel film y la llevamos a la nevera 30 minutos.",
+                "4. Pasado este tiempo, sacamos la masa de la nevera, la estiramos con ayuda de un rodillo y la colocamos sobre un molde redondo de unos 24 cm de diámetro, previamente engrasado con mantequilla y harina para evitar que se peque la masa. Ponemos sobre la masa papel de horno y sobre el papel, algún peso para evitar que la masa suba como legumbres o, en nuestro caso, bolitas de cerámica específicas para esta función. A continuación, horneamos la base de masa durante 10 minutos a 180 ºC con calor arriba y abajo.",
+                "5. Para el relleno, cortamos en tacos regulares 200 g de tocino.",
+                "6. Salteamos el tocino en una sartén a fuego medio-alto durante unos minutos, hasta que quede dorado.",
+                "7. Batimos en un bol 500 ml de nata para cocinar con 3 huevos.",
+                "8. Rallamos 150 g de queso emmental.",
+                "9. Mezclamos bien todos los ingredientes del relleno y lo sazonamos con sal, pimienta blanca y un poco de nuez moscada recién rallada. Pasado el tiempo de horneado, retiramos la masa del horno, quitamos el peso y vertemos el relleno sobre la masa quebrada.",
+                "10. Horneamos la quiche durante 30 minutos a 180 ºC con calor arriba y abajo.",
+                "11. Pasado este tiempo, la sacamos del horno y esperamos a que enfríe un poco antes de desmoldarla. La servimos templada o fría de un día para otro."
+            ]
+        },
+                {
+                    "id": 2,
+                    "titulo": "Sopa de Cebolla",
+                    "imagen": "data:image/jpeg;base64,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",
+                    "descripcion": "La sopa de cebolla es una sopa cuyo principal ingrediente es la cebolla caramelizada. Considerada originaria de Francia, país donde se popularizó y que extendió su receta por el mundo en el siglo XIX, es una receta de la que se tienen registros históricos desde la Edad Media en muchos países europeos",
+                    "ingredientes": [
+                        { "nombre": "cebolla", "cantidad": "6", "unidad": "pz" },
+                        { "nombre": "aceite de oliva extra virgen", "cantidad": "30", "unidad": "ml" },
+                        { "nombre": "mantequilla", "cantidad": "60", "unidad": "g" },
+                        { "nombre": "diente de ajo", "cantidad": "1", "unidad": "pz" },
+                        { "nombre": "fondo de res", "cantidad": "2", "unidad": "l" },
+                        { "nombre": "rebanadas de pan tipo baguette", "cantidad": "12", "unidad": "pz" },
+                        { "nombre": "harina de trigo", "cantidad": "3", "unidad": "cdas" },
+                        { "nombre": "azucar", "cantidad": "1", "unidad": "cdta" },
+                        { "nombre": "Sal y pimienta", "cantidad": "C/N", "unidad": "g" },
+                        { "nombre": "Brandy o coñag", "cantidad": "20", "unidad": "ml" },
+                        { "nombre": "Sal y pimienta", "cantidad": "C/N", "unidad": "g" },
+                        { "nombre": "Queso rallado", "cantidad": "100", "unidad": "g" }
+                    ],
+                    "procedimiento": [
+                        "1. En esta sopa debemos emplear cebollas dulces, las encontraremos en el mercado o cualquier supermercado.",
+                        "2. Pelamos y cortamos en juliana (a lo largo y en finísimas rodajas) las cebollas dulces. Reservamos en un cuenco.",
+                        "3. Elegimos una cazuela grande, calentamos el aceite en el fondo de la cazuela. Añadimos la mantequilla, que es la verdadera base de esta sopa francesa.",
+                        "4. Cuando se haya derretido y mezclado con el aceite de oliva introducimos las cebollas y el ajo muy picadito. Añadimos también un poco de sal y pimienta negra. El efecto salado nos ayudará a que las cebollas suden y que se ablanden antes.",
+                        "5. Removemos con una cuchara de madera de manera envolvente hasta que la cebolla quede transparente o translúcida, no debe coger color.",
+                        "6. Este proceso es lento porque queremos tener la cebolla blandita sin que se queme. Con fuego muy suave tardaremos unos 20-25 minutos. P tapar o no la cazuela durante la cocción aunque si la tapáis el agua que va soltando el sofrito quedará en la cazuela y evitará que la cebolla tome color tostado.",
+                        "7. Espolvoreamos la harina en la cazuela y removemos con cuidado para mezclarla bien. El efecto de la harina con la cebolla y sobre todo la mantequilla se llama Roux, nos ayudará a ligar y espesar la sopa. Añadimos el brandy y dejamos 1-2 minutos que se evapore.",
+                        "8. Introducimos el caldo, de carne o de lo que más nos guste, por ejemplo pollo, pescado o verduras (así le daréis vuestro toque a la sopa). Salpimentamos si es necesario y llevamos a ebullición. Dejamos 15-20 minutos a fuego muy suave. La sopa tiene harina y si incrementamos la temperatura se irá al fondo de la cazuela.",
+                        "9. Cortamos en rebanadas finas el pan y tostamos ligeramente. Untamos con un trozo de ajo y colocamos en la superficie de la cazuela o en cuencos individuales con la sopa y las tostadas por encima.",
+                        "10.Espolvoreamos con el queso suave que más nos guste (yo he utilizado ruyère). Metemos al horno precalentado a 200º C. Gratinamos a 220º C durante 5-6 minutos y servimos inmediatamente bien caliente."
+                    ]
+                },
+                        {
+                            "id": 3,
+                            "titulo": "Ratatouille",
+                            "imagen": "",
+                            "descripcion": "La ratatouille, o en occitano ratatolha es una preparación típica de la cocina francesa que consiste en un estofado de diferentes hortalizas típicas del sur de Francia. Proviene de la región de Provenza y del antiguo condado de Niza, por lo que se la llama también ratatouille niçoise",
+                            "ingredientes": [
+                                { "nombre": "berenjena", "cantidad": "500", "unidad": "g" },
+                                { "nombre": "calabacin", "cantidad": "375", "unidad": "g" },
+                                { "nombre": "aceite de oliva extra virgen", "cantidad": "125", "unidad": "ml" },
+                                { "nombre": "cebolla", "cantidad": "2", "unidad": "pz" },
+                                { "nombre": "pimiento rojo", "cantidad": "1", "unidad": "pz" },
+                                { "nombre": "diente de ajo", "cantidad": "5", "unidad": "pz" },
+                                { "nombre": "tomate", "cantidad": "750", "unidad": "g" },
+                                { "nombre": "perejil fresco picado", "cantidad": "C/N", "unidad": "g" },
+                                { "nombre": "Sal y pimienta", "cantidad": "C/N", "unidad": "g" },
+                                { "nombre": "Albahaca", "cantidad": "C/N", "unidad": "G" },
+                                { "nombre": "Sal y pimienta", "cantidad": "C/N", "unidad": "g" },
+                                { "nombre": "tomillo", "cantidad": "C/N", "unidad": "g" }
+                            ], 
+                            "procedimiento": [
+                                "1. Comenzar cortando la berenjena en rodajas o trozos pequeños y ponerla en un cuenco con sal para que “sude” y pierda el amargor, durante media hora. Mientras ir picando el resto de las hortalizas. La cebolla en tiras finas, los pimientos en trozos y el calabacín en rodajas y después en cuartos, si estas son muy grandes.",
+                                "2. En una cacerola de fondo grueso echar tres cucharadas de aceite y sofreír la cebolla lentamente durante cinco minutos, hasta que esté blanda. Añadir los pimientos y tres dientes de ajo enteras, bajar un poco el fuego y dejar que las verduras se hagan durante otros siete minutos. Salpimentar. Pasar a una bandeja y reservar.",
+                                "3. Echar otras dos cucharadas de aceite y añadir la berenjena cocinándola durante seis o siete minutos por cada lado si está cortada en rodajas. Cuando esté cocinada añadir a la bandeja con la cebolla y los pimientos. Volver a echar aceite en la cacerola y cocinar el calabacín durante cinco minutos, retirar a la bandeja con el resto de vegetales.",
+                                "4. En la cacerola echar el aceite que nos queda y sofreír los tomates pelados y cortados en cubos sin las semillas, añadir las finas hierbas que teníamos reservadas así como los dientes de ajo que nos quedaban. Cocinarlos bien e ir aplastándolos con un cucharón hasta que queden como una salsa. Añadir las hortalizas que teníamos reservadas y darles unas vueltas cuidadosamente con la salsa de tomate. Cocinar todo junto a fuego medio y tapado durante diez minutos, cuando pase el tiempo destapar la cacerola y bajar el fuego dejándolo otros veinte minutos más."
+                            ]
+                        },
+                    {
+                    "id": 4,
+                    "titulo": "croque-madame",
+                    "imagen": "https://picsum.photos/600/500?random=10",
+                    "descripcion": "En la cocina popular francesa un croque-madame es lo mismo que un croque-monsieur solo que se le añade por encima un huevo frito. Estos emparedados, croque-monsieurs y croque-madames, se sirven calientes en los bistrós de París.",
+                    "ingredientes": [
+                        { "nombre": "Pan de molde rebanado", "cantidad": "2", "unidad": "pz" },
+                        { "nombre": "Jamon de York", "cantidad": "4", "unidad": "pz" },
+                        { "nombre": "Queso Emmental", "cantidad": "40", "unidad": "g" },
+                        { "nombre": "Queso rallado tipo emmental", "cantidad": "25", "unidad": "g" },
+                        { "nombre": "Leche", "cantidad": "100", "unidad": "ml" },
+                        { "nombre": "Harina de trigo", "cantidad": "7", "unidad": "g" },
+                        { "nombre": "Mantequilla", "cantidad": "5", "unidad": "g" },
+                        { "nombre": "Sal y pimienta", "cantidad": "C/N", "unidad": "g" },
+                        { "nombre": "Huevo", "cantidad": "1", "unidad": "pz" }
+                    ],
+                    "procedimiento": [
+                        "1. Para este sándwich necesitamos una salsa bechamel espesa, así que comenzamos por ello. Calentamos la mantequilla en una sartén y añadimos la harina. Removemos un par de minutos para que se cueza ligeramente y agregamos la leche. Lo haremos poco a poco al tiempo que removemos para que no queden grumos. Cuando no quede más leche que añadir, salpimentamos al gusto y cocemos a fuego suave durante diez minutos.",
+                        "2. Tostamos ligeramente las dos rebanadas de pan de molde y lo untamos con una capa generosa de bechamel. Sobre una de ellas extendemos las lonchas de jamón y el queso, previamente loncheado. Colocamos encima la otra rebanadas de pan, con la capa de bechamel hacia abajo (que esté en contacto con el queso).",
+                        "3. Por último, cubrimos el sándwich con otra capa de bechamel y espolvoreamos con abundante queso rallado. Gratinamos durante unos minutos o hasta que la parte superficie esté dorada. Mientras esto ocurre, calentamos un poco de aceite en una sartén y freímos el huevo. Servimos el sándwich inmediatamente, coronado con el huevo frito."
+                    ]
+                },
+                {
+                        "id": 5,
+                            "titulo": "Boeuf bourguignon",
+                            "imagen": "https://picsum.photos/600/500?random=10",
+                            "descripcion": "El bœuf bourguignon es una receta tradicional de la cocina francesa. Debe su nombre a sus dos ingredientes principales: la carne y el vino, dos productos emblemáticos de Borgoña.",
+                            "ingredientes": [
+                                { "nombre": "carne de ternera", "cantidad": "500", "unidad": "g" },
+                                { "nombre": "vino tinto", "cantidad": "550", "unidad": "ml" },
+                                { "nombre": "cebolla", "cantidad": "1", "unidad": "pz" },
+                                { "nombre": "perejil", "cantidad": "1", "unidad": "ramillete" },
+                                { "nombre": "tocino", "cantidad": "125", "unidad": "g" },
+                                { "nombre": "harina de trigo", "cantidad": "1", "unidad": "cda" },
+                                { "nombre": "mantequilla", "cantidad": "15", "unidad": "g" },
+                                { "nombre": "champiñones", "cantidad": "250", "unidad": "g" },
+                                { "nombre": "Sal y pimienta", "cantidad": "C/N", "unidad": "g" },
+                                { "nombre": "fondo de res", "cantidad": "500", "unidad": "ml" },
+                                { "nombre": "tomate concentrado", "cantidad": "1", "unidad": "cda" },
+                                { "nombre": "zanahoria", "cantidad": "1", "unidad": "pz" }
+                            ], 
+                            "procedimiento": [
+                                "1. En un bol combinar la carne cortada en trozos regulares, el vino, la zanahoria en rodajas, la cebolla picada, el diente de ajo, el tomillo, el perejil y el laurel. Cubrir con film de cocina y dejarlo marinar toda una noche en la nevera. Sacar la carne de la marinada. Secar con papel de cocina. Colar el líquido reservándolo, así como los vegetales, por separado.",
+                                "2. En una olla echar aceite hasta cubrir ligeramente el fondo. Sofreír el beicon durante cinco minutos sin que se queme. Reservar en un plato. Aumentar el fuego. Añadir la carne y sofreír de nuevo otros cinco minutos. Pasarla al plato donde teníamos el beicon reservado. Añadir los vegetales, cocinar a fuego medio diez minutos hasta que estén un poco blandos.",
+                                "3. Echar la harina, darle unas vueltas para que se cueza un poco. Verter poco a poco la marinada, removiendo constantemente. Añadir el tomate concentrado. Echar la carne y el beicon. Salpimentar al gusto. Reducir el fuego y dejar cocinar todo durante dos horas y media o hasta que la carne esté casi blanda."
+                            ]
+                }
+        ],
+    "4": [
+        {
+            "id": 1,
+            "titulo": "Quiche Llorain",
+            "imagen": "https://picsum.photos/600/500?random=10",
+            "descripcion": "Quiche Lorraine es una sabrosa tarta francesa rellena de crema, huevos y tocino o jamón, en una caja de repostería abierta. Fue poco conocido fuera de la región francesa de Lorena hasta mediados del siglo XX",
+            "ingredientes": [
+                { "nombre": "harina de trigo", "cantidad": "250", "unidad": "g" },
+                { "nombre": "mantequilla", "cantidad": "125", "unidad": "g" }
+            ], 
+            "procedimiento": [
+                "1. Para hacer la mas"
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "Quiche Llorain",
+            "imagen": "https://picsum.photos/600/500?random=10",
+            "descripcion": "Quiche Lorraine es una sabrosa tarta francesa rellena de crema, huevos y tocino o jamón, en una caja de repostería abierta. Fue poco conocido fuera de la región francesa de Lorena hasta mediados del siglo XX",
+            "ingredientes": [
+                { "nombre": "harina de trigo", "cantidad": "250", "unidad": "g" },
+                { "nombre": "mantequilla", "cantidad": "125", "unidad": "g" }
+            ], 
+            "procedimiento": [
+                "1. Para hacer la mas"
+            ]
+        },
+        {
+            "id": 3,
+            "titulo": "Quiche Llorain",
+            "imagen": "https://picsum.photos/600/500?random=10",
+            "descripcion": "Quiche Lorraine es una sabrosa tarta francesa rellena de crema, huevos y tocino o jamón, en una caja de repostería abierta. Fue poco conocido fuera de la región francesa de Lorena hasta mediados del siglo XX",
+            "ingredientes": [
+                { "nombre": "harina de trigo", "cantidad": "250", "unidad": "g" },
+                { "nombre": "mantequilla", "cantidad": "125", "unidad": "g" }
+            ], 
+            "procedimiento": [
+                "1. Para hacer la mas"
+            ]
+        },
+        {
+            "id": 4,
+            "titulo": "Quiche Llorain",
+            "imagen": "https://picsum.photos/600/500?random=10",
+            "descripcion": "Quiche Lorraine es una sabrosa tarta francesa rellena de crema, huevos y tocino o jamón, en una caja de repostería abierta. Fue poco conocido fuera de la región francesa de Lorena hasta mediados del siglo XX",
+            "ingredientes": [
+                { "nombre": "harina de trigo", "cantidad": "250", "unidad": "g" },
+                { "nombre": "mantequilla", "cantidad": "125", "unidad": "g" }
+            ], 
+            "procedimiento": [
+                "1. Para hacer la mas"
+            ]
+        },
+        {
+            "id": 5,
+            "titulo": "Quiche Llorain",
+            "imagen": "https://picsum.photos/600/500?random=10",
+            "descripcion": "Quiche Lorraine es una sabrosa tarta francesa rellena de crema, huevos y tocino o jamón, en una caja de repostería abierta. Fue poco conocido fuera de la región francesa de Lorena hasta mediados del siglo XX",
+            "ingredientes": [
+                { "nombre": "harina de trigo", "cantidad": "250", "unidad": "g" },
+                { "nombre": "mantequilla", "cantidad": "125", "unidad": "g" }
+            ], 
+            "procedimiento": [
+                "1. Para hacer la mas"
+            ]
+        }
+    ]
+}
+                        
+                                
+                                
+
+
