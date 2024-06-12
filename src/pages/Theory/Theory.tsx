@@ -42,11 +42,11 @@ function Theory() {
                     <p>Cargando...</p>
                 ) : (
                     <>
-                        <img
+                        {slide?.imagen && <img
                             className="w-full rounded-lg max-w-screen-sm	m-auto"
-                            src={slide?.imagen}
+                            src={slide.imagen}
                             alt={slide?.titulo}
-                        />
+                        />}
                         <div className="flex-grow p-4">
                             <h1 className="text-3xl font-bold text-center mb-4">
                                 {slide?.titulo}
