@@ -10,11 +10,11 @@ type Props = {
 function Layout({ title, children }: Props) {
   return (
     <LayoutProvider>
-      <aside className="fixed h-full w-64 bg-emerald-400 hidden md:block">
+      <aside className="fixed h-full w-64 bg-orange-800 hidden md:block">
         <nav>
           <ul className="mt-8 mx-6 grid gap-4">
-            <li><NavLink to="/topics" className={({ isActive }) => `block p-2 border-2 border-solid border-emerald-100 rounded-lg font-bold ${isActive ? 'bg-emerald-100 text-emerald-400' : 'text-emerald-100 hover:bg-emerald-100 hover:text-emerald-400'}`}>Temas</NavLink></li>
-            <li><NavLink to="/recipes" className={({ isActive }) => `block p-2 border-2 border-solid border-emerald-100 rounded-lg font-bold ${isActive ? 'bg-emerald-100 text-emerald-400' : 'text-emerald-100 hover:bg-emerald-100 hover:text-emerald-400'}`}>Recetas</NavLink></li>
+            <li><NavLink to="/topics" className={({ isActive }) => `block p-2 border-2 border-solid border-orange-200 rounded-lg font-bold ${isActive ? 'bg-orange-200 text-orange-800' : 'text-orange-200 hover:bg-orange-200 hover:text-orange-800'}`}>Temas</NavLink></li>
+            <li><NavLink to="/recipes" className={({ isActive }) => `block p-2 border-2 border-solid border-orange-200 rounded-lg font-bold ${isActive ? 'bg-orange-200 text-orange-800' : 'text-orange-200 hover:bg-orange-200 hover:text-orange-800'}`}>Recetas</NavLink></li>
           </ul>
         </nav>
       </aside>
@@ -27,11 +27,11 @@ function Layout({ title, children }: Props) {
           {children}
         </section>
       </main>
-      <footer className="sticky bottom-0 bg-emerald-400 h-20 flex justify-center items-center block md:hidden">
+      <footer className="sticky bottom-0 bg-orange-800 h-20 flex justify-center items-center block md:hidden">
       <nav>
           <ul className="flex gap-4">
-            <li><NavLink to="/topics" className={({ isActive }) => `block p-2 border-2 border-solid border-emerald-100 rounded-lg font-bold ${isActive ? 'bg-emerald-100 text-emerald-400' : 'text-emerald-100 hover:bg-emerald-100 hover:text-emerald-400'}`}>Temas</NavLink></li>
-            <li><NavLink to="/recipes" className={({ isActive }) => `block p-2 border-2 border-solid border-emerald-100 rounded-lg font-bold ${isActive ? 'bg-emerald-100 text-emerald-400' : 'text-emerald-100 hover:bg-emerald-100 hover:text-emerald-400'}`}>Recetas</NavLink></li>
+            <li><NavLink to="/topics" className={({ isActive }) => `block p-2 border-2 border-solid border-orange-200 rounded-lg font-bold ${isActive ? 'bg-orange-200 text-orange-800' : 'text-orange-200 hover:bg-orange-200 hover:text-orange-800'}`}>Temas</NavLink></li>
+            <li><NavLink to="/recipes" className={({ isActive }) => `block p-2 border-2 border-solid border-orange-200 rounded-lg font-bold ${isActive ? 'bg-orange-200 text-orange-800' : 'text-orange-200 hover:bg-orange-200 hover:text-orange-800'}`}>Recetas</NavLink></li>
           </ul>
         </nav>
       </footer>

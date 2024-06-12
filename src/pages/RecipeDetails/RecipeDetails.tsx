@@ -2,6 +2,7 @@ import { Recipe } from "@/types";
 import { useEffect, useState } from "react";
 import { Navigate, useParams } from "react-router-dom";
 import "./RecipeDetails.css";
+import { Button } from "@/components";
 
 function RecipeDetails() {
     const [recipe, setRecipe] = useState<Recipe>();
@@ -39,6 +40,7 @@ function RecipeDetails() {
     return (
       <div className="overlay">
         <main className="main">
+            <Button variant="link" to={`/recipes`}>Volver</Button>
             <div className="main__image">
                 <img src={recipe.imagen} alt={recipe.titulo} />
             </div>
@@ -53,7 +55,7 @@ function RecipeDetails() {
                 ))}
             </ul>
             <div className="divider"></div>
-            <h2 className="main__subtitle">Instructions</h2>
+            <h2 className="main__subtitle">Instrucciones</h2>
             <ol className="recipe_list">
                 {recipe.procedimiento.map((step) => (
                     <li>{step}</li>

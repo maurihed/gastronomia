@@ -11,9 +11,9 @@ type Props = {
 };
 
 const variants = {
-    link: "text-emerald-400 hover:underline",
-    primary: "bg-emerald-400 text-white hover:bg-emerald-500",
-    secondary: "bg-emerald-100 text-emerald-400 hover:bg-emerald-200",
+    link: "text-orange-800 hover:underline",
+    primary: "bg-orange-800 text-white hover:bg-orange-900",
+    secondary: "bg-orange-200 text-orange-800 hover:bg-orange-300",
 };
 
 function Button({

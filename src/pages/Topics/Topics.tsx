@@ -6,7 +6,7 @@ import TopicList from "./components/TopicList";
 
 function Topics() {
   const [topics] = useState(TopicsData);
-  console.log(topics);
+
   return (
     <Layout title={<h1 className="text-3xl font-bold">Temas</h1>}>
       <div className="m-6">
